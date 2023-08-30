@@ -1,3 +1,6 @@
+/*Patron creacional o Builder o construccion como construir una casa */
+
+
 import modelos.Usuario;
 
 public class App {
