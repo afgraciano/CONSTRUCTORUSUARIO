@@ -1,4 +1,4 @@
-/*Patron creacional o Builder o construccion como construir una casa */
+/*Patron creacional o Builder o construccion asi como construir una casa */
 
 
 import modelos.Usuario;
